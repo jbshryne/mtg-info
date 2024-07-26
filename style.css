@@ -3,11 +3,6 @@ body {
   font-size: 150%;
   color: rgb(229, 222, 212);
   min-height: 100vh;
-}
-
-header,
-footer,
-.errorMessage {
   display: flex;
   flex-direction: column;
   align-items: center;
