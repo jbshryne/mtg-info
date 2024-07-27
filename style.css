@@ -1,6 +1,6 @@
 body {
   background-color: rgb(72, 61, 47);
-  font-size: 150%;
+  font-size: 125%;
   color: rgb(229, 222, 212);
   min-height: 100vh;
   padding: 100px;
@@ -24,11 +24,13 @@ legend,
 }
 
 .image-caption {
+  margin: auto;
   text-align: center;
 }
 
 .card-image {
   border-radius: 10px;
+  width: 300px;
 }
 
 label {
