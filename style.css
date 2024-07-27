@@ -26,6 +26,8 @@ legend,
 .image-caption {
   margin: auto;
   text-align: center;
+  font-size: 75%;
+  font-style: italic;
 }
 
 .card-image {
