@@ -29,8 +29,9 @@ legend,
 }
 
 .card-image {
-  border-radius: 10px;
+  border-radius: 20px;
   width: 300px;
+  margin: 75px;
 }
 
 label {
